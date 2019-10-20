@@ -1,0 +1,66 @@
+\documentclass{beamer}
+
+%Packages
+\usepackage[utf8x]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{units}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{backgrounds}
+%Style
+\definecolor{TextJGH}{RGB}{255,255,255}
+\definecolor{OrangeJGH}{RGB}{248,109,21}
+\definecolor{BlueJGH}{RGB}{41,171,225}
+\definecolor{YellowJGH}{RGB}{245,204,0}
+\definecolor{GreenJGH}{RGB}{95,219,164}
+\definecolor{BackgroundJGH}{RGB}{26,26,26}
+
+\mode<presentation>{
+\usecolortheme{albatross}
+% Itemize styles
+\setbeamercolor{itemize item}{fg=BlueJGH}
+\setbeamercolor{itemize subitem}{fg=BlueJGH!80!black}
+\setbeamercolor{itemize subsubitem}{fg=BlueJGH!60!black}
+% Index styles
+\setbeamercolor{section in toc}{fg=BlueJGH}
+\setbeamercolor{subsection in toc}{fg=BlueJGH!80!black}
+\setbeamercolor{subsubsection in toc}{fg=BlueJGH!60!black}
+% Normal text styles
+\setbeamercolor{normal text}{fg=TextJGH}
+\setbeamercolor{background canvas}{bg=BackgroundJGH}
+% Title styles
+\setbeamercolor*{palette primary}{fg=TextJGH}
+\setbeamercolor*{palette secondary}{fg=TextJGH!50!black}
+\setbeamercolor*{palette tertiary}{fg=TextJGH}
+\setbeamercolor*{palette quaternary}{fg=TextJGH}
+\setbeamercolor{titlelike}{parent=palette primary,fg=TextJGH}
+% Frame colors for title
+\setbeamercolor{frametitle}{bg=BlueJGH}
+}
+
+
+\title[3D-Druck]{3D-Druck}
+\author{David Jäckel}
+\institute[LT]{Jugend Hackt}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+  \frametitle{Inhalt}
+  \tableofcontents
+\end{frame}
+
+\include{einleitung}
+\include{verfahren}
+\include{technik}
+\include{filament}
+\include{schritte}
+
+\end{document}
