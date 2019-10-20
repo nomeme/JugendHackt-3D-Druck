@@ -9,7 +9,7 @@ Außerdem schauen wir uns an wie man eigentlich so ein Gerät bedient.
 
 ### Präsentation
 
-Am Anfang werde ich euch in einem kurzen Vortrag etwas zu 3D-Druck erzählen. Dabei werde ich kurz auf die Geschichte und Funktionsweise eines 3D-Druckers eingehen und zeigen wie ein 3D-Drucker funktioniert. Danach besprechen wir kurz wie man in drei Schritten einen 3D-Druck vorbereitet. Die Präsentation findet ihr [hier](index.pdf)
+Am Anfang werde ich euch in einem kurzen Vortrag etwas zu 3D-Druck erzählen. Dabei werde ich kurz auf die Geschichte und Funktionsweise eines 3D-Druckers eingehen und zeigen wie ein 3D-Drucker funktioniert. Danach besprechen wir kurz wie man in drei Schritten einen 3D-Druck vorbereitet. Die Präsentation findet ihr [hier](index.pdf).
 
 ### Umsetzung
 
@@ -36,11 +36,11 @@ In diesem Teil wird eine kurze Zusammenfassung der Geschichte des 3D-Drucks geli
 Danach werden verschiedene Techniken von 3D-Druckern kurz vorgestellt.
 Wir schauen uns dann den **FDM** Drucker etwas genauer an, da es momentan der am weitesten verbreitete Drucker ist. Wir finden heraus wie dieser Drucker funktioniert und welche Materialien wir damit verarbeiten können.
 
-Die Zusammenfassung der Recherche findet sich [hier](Technik.md)
+Die Zusammenfassung der Recherche findet sich [hier](Technik.md).
 
-### Vom digitalen zum physischen
+### Vom Digitalen zum Physischen
 
 Hier schauen wir uns an wie man aus einem digitalen Modell ein physisches Modell machen kann.
 Wie kommt man an Objekte die man drucken kann und wie druckt man eigentlich etwas?
 
-Die Zusammenfassung der Recherche findet sich [hier](Druck.md)
+Die Zusammenfassung der Recherche findet sich [hier](Druck.md).
